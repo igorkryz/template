@@ -1,0 +1,15 @@
+$color: #fff;
+$textcolor: #000;
+
+p{
+	color: $color;
+}
+a{
+	color: $textcolor;
+}
+*{
+	box-sizing: border-box;
+}
+h1{
+	transform: rotate(45deg);
+}
